@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## I'm a Wife, Mother, Data analysis, and Artificial Intelligence Student !!
 
 
 - 🔭 I’m currently working on Github
