@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm a Wife, Mother, Data analysis, and Artificial Intelligence Student !!
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+![profile](https://user-images.githubusercontent.com/76471442/135838802-fa905ef6-ad3c-4f82-85a6-2f3534a44f56.gif)
 
 
 - 🔭 I’m currently working on Github
