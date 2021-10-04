@@ -9,5 +9,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: Linkedin : https://www.linkedin.com/in/katherinehansen-data/
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I am very perseverant and motivated in Data.
+- ⚡ Fun fact: ...I am very persistent and motivated in Data
 -->
